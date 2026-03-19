@@ -25,7 +25,7 @@ const Projects = () => {
               </ul>
 
               <div className={styles.links}>
-                <a src="https://www.notion.so/Analisis-de-datos-328845903c7580538ff4d5696b62be4d?source=copy_link">
+                <a href="https://www.notion.so/Analisis-de-datos-328845903c7580538ff4d5696b62be4d?source=copy_link" target="_blank">
                 Info
                 </a>
                 <a href={p.live} target="_blank" rel="noreferrer">
